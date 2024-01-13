@@ -33,11 +33,6 @@ header{
     position: relative;
 }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 5c71b85e24c49d1a3ef5b1e34255e6b78cfcc00c
 nav{
     text-align: right;
     padding: 30px 50px 0 0;
@@ -83,31 +78,22 @@ header .textos-header{
     position: absolute;
     bottom: 0;
     width: 100%;
-<<<<<<< HEAD
     
-=======
->>>>>>> 5c71b85e24c49d1a3ef5b1e34255e6b78cfcc00c
 }
 
 /*INTRODUCCION*/
 
-<<<<<<< HEAD
 body{
     background: darkgray;
 }
 
-=======
->>>>>>> 5c71b85e24c49d1a3ef5b1e34255e6b78cfcc00c
 .inicio{
  background-size: cover;
  height: 90vh;
  color: white;
  display: flex;
  align-items: center;
-<<<<<<< HEAD
  gap: 10px;
-=======
->>>>>>> 5c71b85e24c49d1a3ef5b1e34255e6b78cfcc00c
 }
 
 .inicio .contenido-banner{
@@ -117,10 +103,7 @@ body{
     margin: 100px;
     text-align: center;
     border-radius: 40px;
-<<<<<<< HEAD
     margin-right: 15px
-=======
->>>>>>> 5c71b85e24c49d1a3ef5b1e34255e6b78cfcc00c
 }
 
 .inicio .contenido-banner img{
@@ -147,11 +130,7 @@ body{
     display: inline-block;
     text-decoration: none;
     border: 1px solid white;
-<<<<<<< HEAD
     border-radius: 100%;
-=======
-    border-radius: 100;
->>>>>>> 5c71b85e24c49d1a3ef5b1e34255e6b78cfcc00c
     width: 42px;
     height: 42px;
     line-height: 42px;
@@ -167,7 +146,6 @@ background-color:palevioletred;
 
 .sobremi{
     max-width: 1100px;
-<<<<<<< HEAD
     margin: 0 100px;
     padding: 100px 15px;
     color: black;
@@ -178,11 +156,3 @@ background-color:palevioletred;
 
 
 
-=======
-    margin: 0 40px;
-    padding: 100px 15px;
-    color: black;
-    display: grid;
-}
-
->>>>>>> 5c71b85e24c49d1a3ef5b1e34255e6b78cfcc00c
